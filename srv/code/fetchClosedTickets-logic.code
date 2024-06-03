@@ -1,0 +1,13 @@
+{
+    "version": "2.0",
+    "codes": [],
+    "configuration": {
+        "phase": "before",
+        "events": [
+            "CREATE",
+            "UPDATE"
+        ],
+        "entity": "hrsassistSrv.KnowledgeBase"
+    },
+    "hash": "0bda834b2fe2f367d6f146623dc66451e78aabd7dade277efcd6277cf5f4cfc90753feee2bd86202c001fc05f5a062df718e014444dc539de2c809d5ed7becdf"
+}

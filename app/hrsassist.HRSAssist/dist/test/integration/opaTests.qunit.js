@@ -1,0 +1,2 @@
+sap.ui.require(["sap/fe/test/JourneyRunner","hrsassist/HRSAssist/test/integration/FirstJourney","hrsassist/HRSAssist/test/integration/pages/TicketList","hrsassist/HRSAssist/test/integration/pages/TicketObjectPage"],function(s,t,e,i){"use strict";var s=new s({launchUrl:sap.ui.require.toUrl("hrsassist/HRSAssist")+"/index.html"});s.run({pages:{onTheTicketList:e,onTheTicketObjectPage:i}},t.run)});
+//# sourceMappingURL=opaTests.qunit.js.map

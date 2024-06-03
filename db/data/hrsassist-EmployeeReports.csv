@@ -1,0 +1,6 @@
+ID;employeeReportsID;title;createdBy;createdOn;priorityCount;statusCount;timeTaken;ticket_ID
+d2edd0c1-3a72-4eb1-ab12-aefe2b53ecec;d2edd0c1-3a72-4eb1-ab12-aefe2b53ecec;Power Outage;John Doe;2021-06-27T14:52:23Z;3;2;30;0dbaf7fc-61da-4489-ba63-8105115097b2
+f8ad7889-80e7-43d3-9be8-6e95f2cc9780;f8ad7889-80e7-43d3-9be8-6e95f2cc9780;System Crash;Jane Smith;2021-06-27T16:00:00Z;2;3;45;614f2cbe-f1d8-493f-9bfa-037ee10f00aa
+75635a11-8990-4153-b5b7-a528556a9db6;75635a11-8990-4153-b5b7-a528556a9db6;System Overload;Alice Johnson;2021-06-27T17:30:00Z;1;3;60;eee03719-3873-4f69-8f74-568aaf0302b1
+15089ffd-559b-4def-97db-bc013841c833;15089ffd-559b-4def-97db-bc013841c833;Software Update;Bob Anderson;2021-06-27T18:45:00Z;3;1;30;cc641e03-d3d6-4cdf-82d1-ce316ff16c6c
+5b04dc2b-c795-4845-9a4b-cee14549f869;5b04dc2b-c795-4845-9a4b-cee14549f869;Login Issue;John Doe;2021-06-27T19:15:00Z;2;2;45;e3e97758-f0e6-4111-af88-c3113f754fed

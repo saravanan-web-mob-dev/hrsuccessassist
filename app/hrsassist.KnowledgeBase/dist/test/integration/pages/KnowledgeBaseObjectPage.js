@@ -1,0 +1,2 @@
+sap.ui.define(["sap/fe/test/ObjectPage"],function(e){"use strict";var s={actions:{},assertions:{}};return new e({appId:"hrsassist.KnowledgeBase",componentId:"KnowledgeBaseObjectPage",contextPath:"/KnowledgeBase"},s)});
+//# sourceMappingURL=KnowledgeBaseObjectPage.js.map

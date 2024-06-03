@@ -1,0 +1,2 @@
+sap.ui.require(["sap/fe/test/JourneyRunner","hrsassist/MyReports/test/integration/FirstJourney","hrsassist/MyReports/test/integration/pages/EmployeeReportsList","hrsassist/MyReports/test/integration/pages/EmployeeReportsObjectPage"],function(e,s,t,r){"use strict";var e=new e({launchUrl:sap.ui.require.toUrl("hrsassist/MyReports")+"/index.html"});e.run({pages:{onTheEmployeeReportsList:t,onTheEmployeeReportsObjectPage:r}},s.run)});
+//# sourceMappingURL=opaTests.qunit.js.map

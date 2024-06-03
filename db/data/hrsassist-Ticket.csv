@@ -1,0 +1,16 @@
+ID;ticketID;title;description;priority;reportedBy;createdOn;closedOn;responder;status
+0dbaf7fc-61da-4489-ba63-8105115097b2;0dbaf7fc-61da-4489-ba63-8105115097b2;System Crash;The system crashed unexpectedly;High;John Doe;2021-06-27T14:52:23Z;2021-06-27T15:30:00Z;Jane Smith;Closed
+614f2cbe-f1d8-493f-9bfa-037ee10f00aa;614f2cbe-f1d8-493f-9bfa-037ee10f00aa;Login Issue;Unable to login to the system;Medium;Jane Smith;2021-06-27T16:00:00Z;;John Doe;Open
+eee03719-3873-4f69-8f74-568aaf0302b1;eee03719-3873-4f69-8f74-568aaf0302b1;Email Not Working;Emails are not being sent;Low;Alice Johnson;2021-06-27T17:30:00Z;;Bob Anderson;Open
+cc641e03-d3d6-4cdf-82d1-ce316ff16c6c;cc641e03-d3d6-4cdf-82d1-ce316ff16c6c;Slow Performance;The system is performing slowly;High;Bob Anderson;2021-06-27T18:45:00Z;;Alice Johnson;Open
+e3e97758-f0e6-4111-af88-c3113f754fed;e3e97758-f0e6-4111-af88-c3113f754fed;Data Loss;Data was lost during transfer;Medium;John Doe;2021-06-27T19:15:00Z;;Jane Smith;Open
+4b6485e2-1876-4ef6-9316-d540b021e43f;d7663dd7-44d5-424d-ad31-5742d07ddb04;Software Update;Software update failed;High;Robert Brown;2024-06-01T21:17:55+0530;2024-06-01T21:17:55+0530;Emily Davis;Open
+8d4bf872-1636-47ec-a71f-0344221663a2;9afb6c16-76d5-47a9-a4fb-bb895726a966;Hardware Failure;The server hardware failed;Medium;Emily Davis;2024-06-01T21:17:55+0530;2024-06-01T21:17:55+0530;Robert Brown;Open
+d021344b-673d-4a1c-b7cc-4a6f51a515da;a615f8bb-9cd3-4a08-8ea2-c06248b08293;Network Outage;The network is down;High;Charlie Green;2024-06-01T21:17:55+0530;2024-06-01T21:17:55+0530;Olivia Martin;Open
+f47e3231-c14f-47a2-b4cb-1d7f5fc42483;96649e61-7d01-40f1-84c3-d5d664dba53f;Security Breach;A security breach was detected;High;Olivia Martin;2024-06-01T21:17:55+0530;2024-06-01T21:17:55+0530;Charlie Green;Open
+cc4c2f6c-0655-4540-9faf-2639a2c5d947;8eb92116-4446-490b-b342-1f38984c1398;Data Corruption;Data corruption was detected;Medium;Liam Thompson;2024-06-01T21:17:55+0530;2024-06-01T21:17:55+0530;Sophia Johnson;Open
+8911c2ed-a5d9-4b15-9cb5-ff97ac32cbc3;da76c5c8-4d9b-42fd-b5d0-803bd5200890;Software Bug;A bug was found in the software;Low;Sophia Johnson;2024-06-01T21:17:55+0530;2024-06-01T21:17:55+0530;Liam Thompson;Open
+46db7667-a884-47cd-90ed-c5b0bece37c5;fb78ae95-1196-42e5-8a93-72e8ed5cfe52;System Overload;The system is overloaded;High;William Wilson;2024-06-01T21:17:55+0530;2024-06-01T21:17:55+0530;Ava Taylor;Open
+dd70463c-dd55-4bd2-8367-a18c9baac6b5;e5b60b1c-f188-4834-b115-394b29cc779f;Memory Leak;A memory leak was detected;Medium;Ava Taylor;2024-06-01T21:17:55+0530;2024-06-01T21:17:55+0530;William Wilson;Open
+03db716f-7f76-4132-bcf2-6c08c28ed19f;c99efbac-1911-4995-bd08-181dfc3c5e8a;Power Outage;There was a power outage;Low;James Moore;2024-06-01T21:17:55+0530;2024-06-01T21:17:55+0530;Mia White;Open
+ec230208-6e21-4a95-9132-9ad736fb7032;1217c7cf-be1c-419d-871f-75141b6b09f7;Hardware Upgrade;Hardware upgrade required;Medium;Mia White;2024-06-01T21:17:55+0530;2024-06-01T21:17:55+0530;James Moore;Open

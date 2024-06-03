@@ -1,0 +1,52 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <title> Project Preview </title>
+    <script src="shared-config.js"></script>
+    <script src="https://ui5.sap.com/1.120.13/resources/sap-ui-core.js" 
+            id="sap-ui-bootstrap"
+            data-sap-ui-theme="sap_horizon"
+            data-sap-ui-bindingSyntax="complex" 
+            data-sap-ui-xx-bindingSyntax="complex"
+            data-sap-ui-resourceroots='{"assets": "assets"}' 
+            data-sap-ui-libs="sap.m,sap.uxap,sap.ui.layout,sap.f">
+    </script>
+    <link rel="stylesheet" href="assets/preview.css">
+</head>
+
+<body id="body" class="sapUiBody">
+    <script>
+        "use strict";
+        sap.ui.localResources("assets");
+        (function (jQuery, App, Page) {
+            sap.ui.getCore().attachInit(function () {
+                sap.ui.define([
+                    "sap/ui/core/mvc/Controller",
+                    "sap/ui/model/json/JSONModel"
+                ], function (Controller, JSONModel) {
+                    return Controller.extend("PreviewController", {
+                        onInit: function () {
+
+                            const data = {"Services":[{"ServiceName":"hrsassistSrv","DetailsURL":"./service/hrsassist/","Metadata":"./service/hrsassist/$metadata","Entities":[{"Name":"Ticket","URL":"./service/hrsassist/Ticket","FioriURL":"$fiori-preview/hrsassistSrv/Ticket#preview-app"},{"Name":"Status","URL":"./service/hrsassist/Status","FioriURL":"$fiori-preview/hrsassistSrv/Status#preview-app"},{"Name":"Priority","URL":"./service/hrsassist/Priority","FioriURL":"$fiori-preview/hrsassistSrv/Priority#preview-app"},{"Name":"MyQueue","URL":"./service/hrsassist/MyQueue","FioriURL":"$fiori-preview/hrsassistSrv/MyQueue#preview-app"},{"Name":"HRReports","URL":"./service/hrsassist/HRReports","FioriURL":"$fiori-preview/hrsassistSrv/HRReports#preview-app"},{"Name":"EmployeeReports","URL":"./service/hrsassist/EmployeeReports","FioriURL":"$fiori-preview/hrsassistSrv/EmployeeReports#preview-app"},{"Name":"KnowledgeBase","URL":"./service/hrsassist/KnowledgeBase","FioriURL":"$fiori-preview/hrsassistSrv/KnowledgeBase#preview-app"}],"EntitiesCount":7}]}
+                            this.getView().setModel(new JSONModel(data));
+                        }
+                    });
+                });
+                var oApp = new App()
+                var previewView = sap.ui.view({
+                    viewName: "assets.Preview",
+                    type: sap.ui.core.mvc.ViewType.XML
+                });
+                oApp.addPage(new Page({
+                    content: [previewView],
+                    showHeader: false
+                })).placeAt("content");
+            });
+
+        }(jQuery, sap.m.App, sap.m.Page));
+    </script>
+    <div id="content"></div>
+</body>
+
+</html>

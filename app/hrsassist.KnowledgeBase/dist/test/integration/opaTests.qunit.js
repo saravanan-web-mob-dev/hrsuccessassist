@@ -1,0 +1,2 @@
+sap.ui.require(["sap/fe/test/JourneyRunner","hrsassist/KnowledgeBase/test/integration/FirstJourney","hrsassist/KnowledgeBase/test/integration/pages/KnowledgeBaseList","hrsassist/KnowledgeBase/test/integration/pages/KnowledgeBaseObjectPage"],function(e,s,t,n){"use strict";var e=new e({launchUrl:sap.ui.require.toUrl("hrsassist/KnowledgeBase")+"/index.html"});e.run({pages:{onTheKnowledgeBaseList:t,onTheKnowledgeBaseObjectPage:n}},s.run)});
+//# sourceMappingURL=opaTests.qunit.js.map

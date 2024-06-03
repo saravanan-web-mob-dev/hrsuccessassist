@@ -1,0 +1,6 @@
+ID;hRReportsID;title;createdBy;createdOn;highPriorityCount;mediumPriorityCount;lowPriorityCount;statusCount;timeTaken;ticket_ID
+2dc3ac9c-f533-42f2-a894-54e1167a2330;2dc3ac9c-f533-42f2-a894-54e1167a2330;HR Report 1;John Doe;2021-06-27T14:52:23Z;2;1;0;3;45;0dbaf7fc-61da-4489-ba63-8105115097b2
+4b9380ae-0637-4bef-9001-07f586341d62;4b9380ae-0637-4bef-9001-07f586341d62;HR Report 2;Jane Smith;2021-06-27T16:00:00Z;1;2;1;4;60;614f2cbe-f1d8-493f-9bfa-037ee10f00aa
+957c08bb-d166-4417-a18b-5d67454fbb22;957c08bb-d166-4417-a18b-5d67454fbb22;HR Report 3;Alice Johnson;2021-06-27T17:30:00Z;0;1;2;3;30;eee03719-3873-4f69-8f74-568aaf0302b1
+8e9e599c-f4af-4d9b-b972-7757605fb49a;8e9e599c-f4af-4d9b-b972-7757605fb49a;HR Report 4;Bob Anderson;2021-06-27T18:45:00Z;1;0;3;4;75;cc641e03-d3d6-4cdf-82d1-ce316ff16c6c
+10f64cb6-808c-4f52-8b3b-ea0274ccbc61;10f64cb6-808c-4f52-8b3b-ea0274ccbc61;HR Report 5;John Doe;2021-06-27T19:15:00Z;0;2;1;3;50;e3e97758-f0e6-4111-af88-c3113f754fed

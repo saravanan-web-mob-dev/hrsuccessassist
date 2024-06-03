@@ -1,0 +1,4 @@
+ID;fileName;mimeType;thumbnailUrl;url;uploadState;ticket_ID
+c6731fce-b3d9-4663-aab9-2b0463d5f483;Employee Handbook;application/pdf;https://example.com/thumbnails/employee_handbook.jpg;https://example.com/images/employee_handbook.pdf;uploaded;4b6485e2-1876-4ef6-9316-d540b021e43f
+ca6c5764-d08d-493b-80a2-225342c01e47;Company Policies;application/pdf;https://example.com/thumbnails/company_policies.jpg;https://example.com/images/company_policies.pdf;uploaded;dd70463c-dd55-4bd2-8367-a18c9baac6b5
+f8d3a3e2-3c39-4c9a-9b9d-abcde1234567;HR Guidelines;application/pdf;https://example.com/thumbnails/hr_guidelines.jpg;https://example.com/images/hr_guidelines.pdf;uploaded;dd70463c-dd55-4bd2-8367-a18c9baac6b5

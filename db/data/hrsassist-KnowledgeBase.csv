@@ -1,0 +1,11 @@
+ID;knowledgeBaseID;title;createdBy;createdOn;ticket_ID;description;respondBy
+59e4633b-efff-4afd-ab6c-7c3a05622d4c;59e4633b-efff-4afd-ab6c-7c3a05622d4c;Ticket: Password Reset;John Doe;2021-06-27T14:52:23Z;0dbaf7fc-61da-4489-ba63-8105115097b2;User requested password reset;John Doe
+8e77da1f-c469-4682-88fd-e8bdc25ec93f;8e77da1f-c469-4682-88fd-e8bdc25ec93f;Ticket: Email Setup;Jane Smith;2021-06-27T16:00:00Z;614f2cbe-f1d8-493f-9bfa-037ee10f00aa;User requested help with email setup;Jane Smith
+5027ba9c-1954-4fad-86ff-ca165b8c8d11;5027ba9c-1954-4fad-86ff-ca165b8c8d11;Ticket: VPN Issues;Alice Johnson;2021-06-27T17:30:00Z;eee03719-3873-4f69-8f74-568aaf0302b1;User reported issues with VPN;Alice Johnson
+c8091f54-445e-4d3c-b40a-53312e66df7d;c8091f54-445e-4d3c-b40a-53312e66df7d;Ticket: Timesheet Submission;Bob Anderson;2021-06-27T18:45:00Z;cc641e03-d3d6-4cdf-82d1-ce316ff16c6c;User asked how to submit timesheet;Bob Anderson
+57c2f8fb-f318-495a-822b-d80e927e01ac;57c2f8fb-f318-495a-822b-d80e927e01ac;Ticket: Leave Request;John Doe;2021-06-27T19:15:00Z;e3e97758-f0e6-4111-af88-c3113f754fed;User asked how to request leave;John Doe
+fce2172e-52fa-4342-aaf8-0779b91c36fb;914af26d-32ab-4135-8e05-80f7d939d178;Ticket: HR System Query;createdBy9978;2024-06-02T11:05:41+0530;d021344b-673d-4a1c-b7cc-4a6f51a515da;User asked how to use the new HR system;createdBy9978
+57ba5cb3-9ee0-4fd0-8c5d-6f3ada8df719;f3a1d784-3dec-4b44-b6a9-695cde212a22;Ticket: 2FA Setup;createdBy4413;2024-06-02T11:05:41+0530;4b6485e2-1876-4ef6-9316-d540b021e43f;User asked how to set up 2FA;createdBy4413
+acf11407-ff16-44fb-b63e-0e68c8a12963;2bebdcc1-8e38-4cba-9c5b-c28ec516e619;Ticket: Project Management Tool Query;createdBy3842;2024-06-02T11:05:41+0530;cc4c2f6c-0655-4540-9faf-2639a2c5d947;User asked how to use the new project management tool;createdBy3842
+173af0a3-b8b6-4113-8e89-a2c9c797661b;5f3073e7-4788-4ca2-8401-260682cba53f;Ticket: Communication Tool Query;createdBy8823;2024-06-02T11:05:41+0530;dd70463c-dd55-4bd2-8367-a18c9baac6b5;User asked how to use the new communication tool;createdBy8823
+fe8188d1-35e7-46af-b6bd-a1515ce9cc56;b30874d5-c6c5-40a6-98df-fa8c17a14925;Ticket: Collaboration Tool Query;createdBy4912;2024-06-02T11:05:41+0530;d021344b-673d-4a1c-b7cc-4a6f51a515da;User asked how to use the new collaboration tool;createdBy4912
